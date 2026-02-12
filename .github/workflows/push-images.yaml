@@ -18,7 +18,7 @@ on:
       - 'Makefile'
 
 env:
-  REPO: 'kubesphere'
+  REPO: 'birdhk'
 
 jobs:
   build:
